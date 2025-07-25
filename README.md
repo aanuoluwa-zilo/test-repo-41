@@ -1,2 +1,3 @@
 # test-repo-41
-Test repository 41
+
+This is a test repository automatically created by script.
